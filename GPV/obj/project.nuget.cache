@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dI7SYgAUNuRlmSKyOQu/U+jU/zOKgVVgMQtOXkmV53TPqDCjoO5pz7BNmHEdTg51oKEMBcqc5IMglPGlThQyBw==",
+  "success": true,
+  "projectFilePath": "D:\\VS projects\\Gamepad\\GPV\\GPV\\GPV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Madpeter\\.nuget\\packages\\sharpdx\\4.2.0\\sharpdx.4.2.0.nupkg.sha512",
+    "C:\\Users\\Madpeter\\.nuget\\packages\\sharpdx.directinput\\4.2.0\\sharpdx.directinput.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
