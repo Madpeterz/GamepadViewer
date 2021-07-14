@@ -179,6 +179,10 @@ namespace GPV
             }
             LastDraw = bg;
             pictureBox1.BackgroundImage = LastDraw;
+            pictureBox1.Update();
+            pictureBox1.Refresh();
+            this.Update();
+            this.Refresh();
         }
 
         private void updateDraw()
@@ -239,6 +243,7 @@ namespace GPV
             {
                 button2.BackColor = Color.Blue;
             }
+            button2.Update();
             if (button1.BackColor != Color.Green)
             {
                 timer1.Enabled = false;
